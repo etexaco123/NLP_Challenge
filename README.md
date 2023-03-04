@@ -22,7 +22,7 @@ This assignment is about based on sentiment analysis of IMDB 50k dataset.
 - I sampled various methods such as support vector machines (SVM), logistic regression, Naive Bayes but support vector machines gave me the best result.
   
   
-### Below is the confution matrix of the performance of the SVM model
+### Below is the confusion matrix of the performance of the SVM model
   
 
 ![Alt](https://github.com/etexaco123/NLP_Challenge/blob/main/confusion_matrix.png?raw=true)
